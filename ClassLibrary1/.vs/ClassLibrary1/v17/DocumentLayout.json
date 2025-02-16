@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4453431-667A-4493-B10C-CD2E46B7F374}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\asus\\documents\\vida\\universidad\\itm\\itm 2025 -1\\programaci\u00F3n de software\\classlibrary1\\classlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4453431-667A-4493-B10C-CD2E46B7F374}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4453431-667A-4493-B10C-CD2E46B7F374}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\asus\\documents\\vida\\universidad\\itm\\itm 2025 -1\\programaci\u00F3n de software\\classlibrary1\\classlibrary1\\iverhiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4453431-667A-4493-B10C-CD2E46B7F374}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\iverhiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4453431-667A-4493-B10C-CD2E46B7F374}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\asus\\documents\\vida\\universidad\\itm\\itm 2025 -1\\programaci\u00F3n de software\\classlibrary1\\classlibrary1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4453431-667A-4493-B10C-CD2E46B7F374}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4453431-667A-4493-B10C-CD2E46B7F374}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\asus\\documents\\vida\\universidad\\itm\\itm 2025 -1\\programaci\u00F3n de software\\classlibrary1\\classlibrary1\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4453431-667A-4493-B10C-CD2E46B7F374}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\ClassLibrary1\\Program.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\ClassLibrary1\\Program.cs",
+              "RelativeToolTip": "ClassLibrary1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:03:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\ClassLibrary1\\Moto.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Moto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\ClassLibrary1\\Moto.cs",
+              "RelativeToolTip": "ClassLibrary1\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:39:29.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\ClassLibrary1\\Carro.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Carro.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\ClassLibrary1\\Carro.cs",
+              "RelativeToolTip": "ClassLibrary1\\Carro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:38:58.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVerhiculo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\ClassLibrary1\\IVerhiculo.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IVerhiculo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Vida\\Universidad\\ITM\\ITM 2025 -1\\Programaci\u00F3n de Software\\ClassLibrary1\\ClassLibrary1\\IVerhiculo.cs",
+              "RelativeToolTip": "ClassLibrary1\\IVerhiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:27:44.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
