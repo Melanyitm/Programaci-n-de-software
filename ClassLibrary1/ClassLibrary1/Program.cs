@@ -12,9 +12,10 @@ namespace ClassLibrary1
 
         static void Main(string[] arg)
         {
-            IVerhiculo[] verhiculos = new IVerhiculo[2];
+            IVerhiculo[] verhiculos = new IVerhiculo[3];
             verhiculos[0] = new Carro();
             verhiculos[1] = new Moto();
+            verhiculos[2] = new Monopatin();
 
             foreach (IVerhiculo v in verhiculos)
             {
